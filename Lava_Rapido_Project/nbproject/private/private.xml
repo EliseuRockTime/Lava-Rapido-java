@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Elise/Documents/NetBeansProjects/Lava_Rapido_Project/src/Controllers/AgendamentoController.java</file>
+            <file>file:/C:/Users/Elise/Documents/NetBeansProjects/Lava_Rapido_Project/src/Models/Agendamento.java</file>
+            <file>file:/C:/Users/Elise/Documents/NetBeansProjects/Lava_Rapido_Project/src/Views/components/CustomTableModel.java</file>
+            <file>file:/C:/Users/Elise/Documents/NetBeansProjects/Lava_Rapido_Project/src/Views/TipoServicoView.java</file>
+            <file>file:/C:/Users/Elise/Documents/NetBeansProjects/Lava_Rapido_Project/src/Models/Cliente.java</file>
+            <file>file:/C:/Users/Elise/Documents/NetBeansProjects/Lava_Rapido_Project/src/Models/service/AgendamentoService.java</file>
+            <file>file:/C:/Users/Elise/Documents/NetBeansProjects/Lava_Rapido_Project/src/Controllers/ClienteController.java</file>
+            <file>file:/C:/Users/Elise/Documents/NetBeansProjects/Lava_Rapido_Project/src/Views/AgendamentoView.java</file>
+            <file>file:/C:/Users/Elise/Documents/NetBeansProjects/Lava_Rapido_Project/src/Models/service/ClienteService.java</file>
+            <file>file:/C:/Users/Elise/Documents/NetBeansProjects/Lava_Rapido_Project/src/lava_rapido_project/Lava_Rapido_Project.java</file>
+            <file>file:/C:/Users/Elise/Documents/NetBeansProjects/Lava_Rapido_Project/src/Models/TipoServico.java</file>
+            <file>file:/C:/Users/Elise/Documents/NetBeansProjects/Lava_Rapido_Project/src/Models/service/TipoServicoService.java</file>
+            <file>file:/C:/Users/Elise/Documents/NetBeansProjects/Lava_Rapido_Project/src/Views/TelaPrincipalView.java</file>
+            <file>file:/C:/Users/Elise/Documents/NetBeansProjects/Lava_Rapido_Project/src/Controllers/TipoServicoController.java</file>
+            <file>file:/C:/Users/Elise/Documents/NetBeansProjects/Lava_Rapido_Project/src/Views/ClienteView.java</file>
+        </group>
+    </open-files>
+</project-private>
